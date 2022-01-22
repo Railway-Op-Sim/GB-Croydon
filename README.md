@@ -7,8 +7,8 @@ Railways in South London in and around Croydon.
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | :x: |
-| Signalling      | :x:      |
+| Track Plan     | :heavy_check_mark: |
+| Signalling      | :heavy_check_mark:      |
 | Naming | :x:      |
 | Speed Limits | :x: |
 | Distances | :x: |
