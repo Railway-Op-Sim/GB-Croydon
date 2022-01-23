@@ -9,7 +9,7 @@ Railways in South London in and around Croydon.
 | ------------- |:-------------:|
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
-| Naming | :x:      |
+| Naming | :heavy_check_mark:      |
 | Speed Limits | :x: |
 | Distances | :x: |
 | Timetable | :x: |
