@@ -43,7 +43,7 @@ https://www.realtimetrains.co.uk/service/gb-nr:X07673/2022-01-28/detailed
 
 ### NORTHBOUND
 NWD Stop - https://www.realtimetrains.co.uk/search/detailed/gb-nr:ECR/to/gb-nr:NWD/2022-01-28/0600-2000?stp=WVS&show=all&order=wtt&toc=TL
-No NWD Stop - https://www.realtimetrains.co.uk/search/detailed/gb-nr:ECR/from/gb-nr:TBD/2022-01-28/0600-2000?stp=WVS&show=all&order=wtt&toc=TL (EXCEPT FIRST)
+No NWD Stop - https://www.realtimetrains.co.uk/search/detailed/gb-nr:ECR/from/gb-nr:TBD/2022-01-28/0600-2000?stp=WVS&show=all&order=wtt&toc=TL (EXCEPT SECOND)
 
 ### SOUTHBOUND
 NWD Stop - https://www.realtimetrains.co.uk/search/detailed/gb-nr:ECR/from/gb-nr:NWD/2022-01-28/0600-2000?stp=WVS&show=all&order=wtt&toc=TL
