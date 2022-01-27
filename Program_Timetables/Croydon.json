@@ -278,6 +278,23 @@
                 {"time":"19:07","ref":"9R47","description":"Bedford to Gatwick Airport"},
                 {"time":"19:37","ref":"9R49","description":"Bedford to Gatwick Airport"}                
             ]
+        },
+        {
+            "ref":"2J05",
+            "description":"London Bridge to Caterham and Tattenham Corner",
+            "dataTemplate":"C377_4_4",
+            "startSpeed":97,
+            "increment":1,
+            "events": [
+                "23:55;Snt;38-14 39-14",
+                "23:56;23:57;Selhurst",
+                "00:00;00:00;East Croydon",
+                "00:03;00:03;South Croydon",
+                "00:04;Fer;63-67"
+            ],
+            "times": [
+                
+            ]
         }
     ]
 }
