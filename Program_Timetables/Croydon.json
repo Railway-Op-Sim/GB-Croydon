@@ -669,6 +669,113 @@
                 {"time":"19:53","ref":"1F55","description":"Eastbourne to London Bridge"},
                 {"time":"19:58","ref":"1C57","description":"Bognor Regis to London Bridge"}
             ]
+        },
+        {
+            "ref":"1L06",
+            "description":"London Bridge to East Grinstead",
+            "dataTemplate":"C377/4_4",
+            "increment":2,
+            "startSpeed":97,
+            "events": [
+                "23:53;Snt;63-N21 63-N20",
+                "23:55;23:55;Norwood Junction",
+                "23:59;00:00;East Croydon",
+                "00:03;Fer;70-65"
+            ],
+            "times": [
+                "06:40","07:40","08:10","08:40","09:10","09:40","10:10","10:40","11:10","11:40","12:10","12:40","13:10","13:40","14:10","14:40","15:10","15:40","16:10","16:40","17:10","17:40","18:10","18:40","19:10","19:40"
+            ]
+        },
+        {
+            "ref":"1L07",
+            "description":"East Grinstead to London Bridge",
+            "dataTemplate":"C377/4_4",
+            "increment":2,
+            "startSpeed":97,
+            "events": [
+                "23:57;Snt;69-65 69-64",
+                "00:00;00:00;East Croydon",
+                "00:05;00:05;Norwood Junction",
+                "00:07;Fer;62-N21"
+            ],
+            "times": [
+                "07:15","07:45","08:15","08:45","09:15","09:45","10:15","10:45","11:15","11:45","12:15","12:45","13:15","13:45","14:15","14:45","15:15","15:45","16:15","16:45","17:15","17:45","18:15","18:45","19:15","19:45"
+            ]
+        },
+        {
+            "ref":"5E11",
+            "description":"Selhurst T&R.S.M.D to East Croydon",
+            "dataTemplate":"C377/4_4",
+            "increment":2,
+            "startSpeed":97,
+            "events": [
+                "06:52;Snt;54-10 54-11",
+                "07:07;Selhurst",
+                "07:08;cdt",
+                "07:11;Selhurst",
+                "07:14;East Croydon",
+                "07:15;Fns;1E09"
+            ],
+            "times": [
+                "00:00"
+            ]
+        },
+        {
+            "ref":"1E09",
+            "description":"East Croydon to Uckfield",
+            "increment":2,
+            "events": [
+                "07:15;Sns;5E11",
+                "07:23;East Croydon",
+                "07:26;Fer;70-65"
+            ],
+            "times": [
+                "00:00"
+            ]
+        },
+        {
+            "ref":"1E05",
+            "description":"London Bridge to Uckfield",
+            "dataTemplate":"C377/4_4",
+            "increment":2,
+            "startSpeed":97,
+            "events": [
+                "23:54;Snt;63-N21 63-N20",
+                "23:59;00:00;East Croydon",
+                "00:03;Fer;70-65"
+            ],
+            "times": [
+                "06:23"
+            ]
+        },
+        {
+            "ref":"1E08",
+            "description":"Uckfield to East Croydon",
+            "dataTemplate":"C377/4_4",
+            "increment":4,
+            "startSpeed":97,
+            "events": [
+                "23:10;Snt;69-65 69-64",
+                "23:14;East Croydon",
+                "23:15;cdt",
+                "23:16;Fns;1E13"
+            ],
+            "times": [
+                "08:22","09:22","10:22","11:22","12:22","13:22","14:22","15:22","16:22","17:22","18:22","19:22"
+            ]
+        },
+        {
+            "ref":"1E13",
+            "description":"East Croydon to Uckfield",
+            "increment":4,
+            "events": [
+                "23:16;Sns;1E08",
+                "00:00;East Croydon",
+                "00:03;Fer;70-65"
+            ],
+            "times": [
+                "08:22","09:22","10:22","11:22","12:22","13:22","14:22","15:22","16:22","17:22","18:22","19:22"
+            ]
         }
     ]
 }
