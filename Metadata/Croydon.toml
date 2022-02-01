@@ -1,12 +1,12 @@
 rly_file = "Croydon.rly"
-ttb_files = []
+ttb_files = ["Croydon-0600.ttb","Croydon-0800.ttb","Croydon-1000.ttb","Croydon-1200.ttb","Croydon-1400.ttb","Croydon-1600.ttb"]
 ssn_files = []
 country_code = "GB"
-name = ""
-description = ""
+name = "Croydon"
+description = "A small yet busy route covering both stations in Croydon."
 display_name = "Croydon"
 author = "Daniel Gill"
-contributors = [ "Daniel-Gill",]
+contributors = []
 graphic_files = []
 img_files = [ "Croydon.bmp",]
 doc_files = [ "README.md",]
