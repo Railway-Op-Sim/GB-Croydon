@@ -11,3 +11,5 @@ I have decided against including a session file, as there are few extra automati
 ## Development
 
 This project is open for contribution on the ROS GitHub Organisation, which you can find [here](https://github.com/Railway-Op-Sim).
+
+**Big thanks to Albert for taking to time to test this project.**
