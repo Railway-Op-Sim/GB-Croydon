@@ -1,5 +1,5 @@
 rly_file = "Croydon.rly"
-ttb_files = ["Croydon-0600.ttb","Croydon-0800.ttb","Croydon-1000.ttb","Croydon-1200.ttb","Croydon-1400.ttb","Croydon-1600.ttb"]
+ttb_files = [ "Croydon-0600.ttb", "Croydon-0800.ttb", "Croydon-1000.ttb", "Croydon-1200.ttb", "Croydon-1400.ttb", "Croydon-1600.ttb",]
 ssn_files = []
 country_code = "GB"
 name = "Croydon"
@@ -12,3 +12,4 @@ img_files = [ "Croydon.bmp",]
 doc_files = [ "README.md",]
 release_date = "2022-01-27"
 version = "1.0.0"
+factual = true
