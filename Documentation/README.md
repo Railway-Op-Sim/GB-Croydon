@@ -1,26 +1,13 @@
-# Project Title
+# Croydon
 
-*About the project goes here*
-
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+This is a busy route covering stations in the Croydon area. It features both mainlines down from London Bridge and London Victoria, as well as many suburban services.
 
 ## Simulation
 
-*This section describes the timetable*
+Included is a timetable of a normal Friday operation which runs between 0600 and 2000, with start points at 0600, 0800, 1000, 1200, 1400 and 1600. These individual represent the same timetable, but the start point has been altered to allow you to experience more of the timetable.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+I have decided against including a session file, as there are few extra automatic routes that would be guaranteed not to be used. I urge you to experiment while operating to find optimum automatic route placements.
 
 ## Development
 
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+This project is open for contribution on the ROS GitHub Organisation, which you can find [here](https://github.com/Railway-Op-Sim).
